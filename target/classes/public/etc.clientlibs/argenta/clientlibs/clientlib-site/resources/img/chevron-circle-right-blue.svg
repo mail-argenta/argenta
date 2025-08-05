@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-circle-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chevron-circle-right" fill="#004A65" fill-rule="nonzero">
+            <path d="M0.333,11 C0.333,16.892 5.107,21.667 11,21.667 C16.893,21.667 21.667,16.893 21.667,11 C21.667,5.108 16.893,0.333 11,0.333 C5.107,0.333 0.333,5.107 0.333,11 Z M19.602,11 C19.602,15.753 15.753,19.602 11,19.602 C6.247,19.602 2.398,15.753 2.398,11 C2.398,6.247 6.247,2.398 11,2.398 C15.753,2.398 19.602,6.247 19.602,11 Z M14.979,11.366 L9.697,16.648 C9.495,16.85 9.168,16.85 8.966,16.648 L7.994,15.676 C7.792,15.474 7.792,15.147 7.994,14.945 L11.938,11.001 L7.994,7.057 C7.792,6.855 7.792,6.528 7.994,6.326 L8.966,5.354 C9.168,5.152 9.495,5.152 9.697,5.354 L14.979,10.636 C15.181,10.838 15.181,11.165 14.979,11.367 L14.979,11.366 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

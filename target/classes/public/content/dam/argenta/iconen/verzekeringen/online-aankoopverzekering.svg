@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Online aankoopverzekering</title>
+    <defs>
+        <polygon id="path-1" points="0 48 48 48 48 0 0 0"></polygon>
+    </defs>
+    <g id="Pakketten" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-" transform="translate(-80.000000, -1.000000)">
+            <g id="Online-aankoopverzekering" transform="translate(80.000000, 1.000000)">
+                <polygon id="Fill-1" fill="#00A160" points="25 14 42 14 42 12 25 12"></polygon>
+                <polygon id="Fill-2" fill="#00A160" points="25 18 34 18 34 16 25 16"></polygon>
+                <polygon id="Fill-3" fill="#00A160" points="6 31 12 31 12 29 6 29"></polygon>
+                <polygon id="Fill-4" fill="#00A160" points="25 31 31 31 31 29 25 29"></polygon>
+                <polygon id="Fill-5" fill="#00A160" points="25 27 42 27 42 25 25 25"></polygon>
+                <polygon id="Fill-6" fill="#00A160" points="6 27 23 27 23 25 6 25"></polygon>
+                <g id="Group-18">
+                    <path d="M7.0002,5.0005 C5.3462,5.0005 4.0002,6.3465 4.0002,8.0005 L4.0002,32.0005 C4.0002,33.6545 5.3462,35.0005 7.0002,35.0005 L41.0002,35.0005 C42.6542,35.0005 44.0002,33.6545 44.0002,32.0005 L44.0002,8.0005 C44.0002,6.3465 42.6542,5.0005 41.0002,5.0005 L7.0002,5.0005 Z M41.0002,37.0005 L7.0002,37.0005 C4.2432,37.0005 2.0002,34.7575 2.0002,32.0005 L2.0002,8.0005 C2.0002,5.2435 4.2432,3.0005 7.0002,3.0005 L41.0002,3.0005 C43.7572,3.0005 46.0002,5.2435 46.0002,8.0005 L46.0002,32.0005 C46.0002,34.7575 43.7572,37.0005 41.0002,37.0005 L41.0002,37.0005 Z" id="Fill-7" fill="#00A160"></path>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-10"></g>
+                    <polygon id="Fill-9" fill="#00A160" mask="url(#mask-2)" points="4 10 45 10 45 8 4 8"></polygon>
+                    <polygon id="Fill-11" fill="#D1D81E" mask="url(#mask-2)" points="7.0735 20.9692 7.0315 13.0732 21.9275 13.0312 21.9695 20.9272 21.9275 20.9692"></polygon>
+                    <path d="M21.927,12.0005 L7.073,12.0005 C6.48,12.0005 6,12.4795 6,13.0725 L6,20.9275 C6,21.5205 6.48,22.0005 7.073,22.0005 L21.927,22.0005 C22.52,22.0005 23,21.5205 23,20.9275 L23,13.0725 C23,12.4795 22.52,12.0005 21.927,12.0005 L21.927,12.0005 Z M8.062,19.9385 L20.939,19.9385 L20.939,14.0625 L8.062,14.0625 L8.062,19.9385 Z" id="Fill-12" fill="#00A160" mask="url(#mask-2)"></path>
+                    <line x1="21.0002" y1="36.0005" x2="21.0002" y2="41.0005" id="Fill-13" fill="#D1D81E" mask="url(#mask-2)"></line>
+                    <polygon id="Fill-14" fill="#00A160" mask="url(#mask-2)" points="20 41 22 41 22 36 20 36"></polygon>
+                    <line x1="27.0002" y1="36.0005" x2="27.0002" y2="41.0005" id="Fill-15" fill="#D1D81E" mask="url(#mask-2)"></line>
+                    <polygon id="Fill-16" fill="#00A160" mask="url(#mask-2)" points="26 41 28 41 28 36 26 36"></polygon>
+                    <path d="M13.1711,44.0005 L34.8291,44.0005 C34.4161,42.8365 33.3041,42.0005 32.0001,42.0005 L16.0001,42.0005 C14.6961,42.0005 13.5841,42.8365 13.1711,44.0005 L13.1711,44.0005 Z M37.0001,46.0005 L11.0001,46.0005 L11.0001,45.0005 C11.0001,42.2435 13.2431,40.0005 16.0001,40.0005 L32.0001,40.0005 C34.7571,40.0005 37.0001,42.2435 37.0001,45.0005 L37.0001,46.0005 Z" id="Fill-17" fill="#00A160" mask="url(#mask-2)"></path>
+                </g>
+                <polygon id="Fill-19" points="0 48 48 48 48 0 0 0"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
